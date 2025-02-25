@@ -1,7 +1,4 @@
 # Studies-and-algorithms.
-Aprendizados e estudos.
-
-## O que é?
 Este repositório reúne meus projetos e aprendizados em programação. O foco principal é explorar diferentes linguagens de programação, algoritmos, estruturas de dados e boas práticas de desenvolvimento.  
 
 ## Objetivos 
